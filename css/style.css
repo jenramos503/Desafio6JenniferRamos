@@ -1,0 +1,35 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #ffffff;
+}
+header {
+    background: #0c0d0f;
+    color: white;
+    font-style: bold;
+    padding: 10px 0;
+    text-align: center;
+}
+.foto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 20px auto;
+}
+.foto img {
+    width: 100%;
+    height: auto;
+}
+section {
+    margin: 20px 0;
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+}
+.accordion-button {
+    background-color: #030303;
+    color: rgb(249, 244, 244);
+    font-style: italic bold;
+}
